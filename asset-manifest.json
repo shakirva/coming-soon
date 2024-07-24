@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/comingsoon/static/css/main.d2555c5c.css",
+    "main.js": "/comingsoon/static/js/main.a3bb1596.js",
+    "index.html": "/comingsoon/index.html",
+    "main.d2555c5c.css.map": "/comingsoon/static/css/main.d2555c5c.css.map",
+    "main.a3bb1596.js.map": "/comingsoon/static/js/main.a3bb1596.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2555c5c.css",
+    "static/js/main.a3bb1596.js"
+  ]
+}
